@@ -7,7 +7,7 @@ name: build
 on:
   pull_request:
   push:
-    paths-ignore: [ '.github/', 'README.md' ]
+    paths-ignore: [ '.github/', 'README.md', "LICENSE" ]
     branches:
       - "**"
 
