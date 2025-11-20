@@ -5,7 +5,8 @@
 	"name": "I Died, My Items Didn't",
 	"description": "Prevents items from despawning if they were dropped via a player death. Never lose your items to the 5-minute timer ever again!",
 	"authors": [
-		"Diemond_Player"
+		"Diemond_Player",
+		"Borukva team"
 	],
 	"contact": {
 		"sources": "https://github.com/DiemondPlayer/IDiedMyItemsDidnt"

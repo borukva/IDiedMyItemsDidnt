@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.diemond_player.idmid.mixin",
+  "package": "ua.borukva.idmid.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "EntityEquipmentMixin",

@@ -37,7 +37,7 @@ In your mod's `build.gradle`, add the repository and the dependency.
 repositories {
     maven {
         name = "GitHubPackages"
-        url = uri("https://maven.pkg.github.com/DiemondPlayer/idmid")
+        url = uri("https://maven.pkg.github.com/borukva/IDiedMyItemsDidnt")
         credentials {
             username = project.findProperty("gpr.user") ?: System.getenv("GITHUB_ACTOR")
             password = project.findProperty("gpr.key") ?: System.getenv("GITHUB_TOKEN")

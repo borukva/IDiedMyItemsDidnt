@@ -1,4 +1,4 @@
-package net.diemond_player.idmid.util;
+package ua.borukva.idmid.util;
 
 import net.minecraft.item.Item;
 import net.minecraft.registry.RegistryKeys;

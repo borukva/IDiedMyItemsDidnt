@@ -1,6 +1,6 @@
-package net.diemond_player.idmid.mixin;
+package ua.borukva.idmid.mixin;
 
-import net.diemond_player.idmid.util.IDMIDAccessor;
+import ua.borukva.idmid.util.IDMIDAccessor;
 import net.minecraft.entity.ItemEntity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.ItemStack;

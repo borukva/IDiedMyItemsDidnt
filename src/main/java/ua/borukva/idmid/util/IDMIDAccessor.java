@@ -1,4 +1,4 @@
-package net.diemond_player.idmid.util;
+package ua.borukva.idmid.util;
 
 public interface IDMIDAccessor {
     boolean idmid$isDeathDrop();

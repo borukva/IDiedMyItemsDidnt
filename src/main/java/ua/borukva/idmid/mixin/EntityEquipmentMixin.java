@@ -1,7 +1,7 @@
-package net.diemond_player.idmid.mixin;
+package ua.borukva.idmid.mixin;
 
-import net.diemond_player.idmid.util.IDMIDAccessor;
-import net.diemond_player.idmid.util.IDMIDTags;
+import ua.borukva.idmid.util.IDMIDAccessor;
+import ua.borukva.idmid.util.IDMIDTags;
 import net.minecraft.entity.EntityEquipment;
 import net.minecraft.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;
