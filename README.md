@@ -1,4 +1,14 @@
-# How to use this mod as a dependency
+**This is an updated fork of the original mod [I Died, My Items Didn't](https://github.com/DiemondPlayer/IDiedMyItemsDidnt).**
+
+This mod makes so that the items that are dropped on player death are not despawnable. The items can still burn in lava or get lost in the void, but they will not despawn because of item age timer whatsoever. This does not affect mob drops, or items that were thrown out manually.
+
+Feel free to include this project in modpacks!
+
+**For Modpack creators**, there is a tag called force_despawn that you can modify using datapacks so that you can re-enable despawn for vanilla or modded items. You can find the datapack template [here](https://drive.google.com/drive/folders/13UWkAW-WW9dpValvN-VXGMajsAIVUCmH).
+
+There is also [I Died, My Xp Didn't](https://modrinth.com/mod/idmxd), but it is not updated.
+
+## How to use this mod as a dependency
 
 This mod is hosted on **GitHub Packages**. To use it in your development environment, you need to configure your `build.gradle` to authenticate with GitHub.
 
