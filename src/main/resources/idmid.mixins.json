@@ -3,6 +3,7 @@
   "package": "net.diemond_player.idmid.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "EntityEquipmentMixin",
     "ItemEntityMixin",
     "ItemStackMixin",
     "PlayerEntityMixin",
